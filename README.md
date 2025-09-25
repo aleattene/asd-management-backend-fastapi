@@ -7,7 +7,6 @@
 ![Pydantic](https://img.shields.io/badge/Built%20with-Pydantic-E92063?logo=pydantic)
 [![Tests](https://github.com/aleattene/asd-management-backend-fastapi/actions/workflows/tests.yml/badge.svg)](https://github.com/aleattene/asd-management-backend-fastapi/actions/workflows/tests.yml)
 [![codecov](https://codecov.io/gh/aleattene/asd-management-backend-fastapi/graph/badge.svg?token=1234567890)](https://codecov.io/gh/aleattene/asd-management-backend-fastapi)
-[![GitHub commits](https://badgen.net/github/commits/aleattene/asd-management-backend-fastapi)](https://github.com/aleattene/asd-management-backend-fastapi/commits/)
 [![GitHub last commit](https://img.shields.io/github/last-commit/aleattene/asd-management-backend-fastapi)](https://github.com/aleattene/asd-management-backend-fastapi/commits/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/aleattene/asd-management-backend-fastapi/pulls)
 [![License](https://img.shields.io/github/license/aleattene/asd-management-backend-fastapi?color=blue)](https://github.com/aleattene/asd-management-backend-fastapi/blob/main/LICENSE)
