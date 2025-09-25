@@ -14,5 +14,5 @@ app = FastAPI(
 # ROOT endpoint ========================================================================================================
 @app.get("/", response_model=RootOut, tags=["root"])
 def read_root():
-    return {"appStatus": "ASD Management FastAPI is running"}
+    return {"appStatus": "ASD Management FastAPI is running..."}
 # ======================================================================================================================

@@ -10,4 +10,4 @@ async def test_root_status_and_payload_async():
         resp = await ac.get("/")
     assert resp.status_code == 200
     assert resp.headers["content-type"].startswith("application/json")
-    assert resp.json() == {"appStatus": "ASD Management FastAPI is running"}
+    assert resp.json() == {"appStatus": "ASD Management FastAPI is running..."}
