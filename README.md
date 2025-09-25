@@ -4,7 +4,7 @@
 
 ![Python](https://badgen.net/badge/Built%20with/Python/blue)
 ![FastAPI](https://img.shields.io/badge/Built%20with-FastAPI-009688?logo=fastapi)
-![Pydantic](https://img.shields.io/badge/Built%20with-Pydantic-3776AB?logo=pydantic)
+![Pydantic](https://img.shields.io/badge/Built%20with-Pydantic-E92063?logo=pydantic)
 [![Tests](https://github.com/aleattene/asd-management-backend-fastapi/actions/workflows/tests.yml/badge.svg)](https://github.com/aleattene/asd-management-backend-fastapi/actions/workflows/tests.yml)
 [![codecov](https://codecov.io/gh/aleattene/asd-management-backend-fastapi/graph/badge.svg?token=1234567890)](https://codecov.io/gh/aleattene/asd-management-backend-fastapi)
 [![GitHub commits](https://badgen.net/github/commits/aleattene/asd-management-backend-fastapi)](https://github.com/aleattene/asd-management-backend-fastapi/commits/)
